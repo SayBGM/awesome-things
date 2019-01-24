@@ -18,7 +18,8 @@
 - [React에서 Mobx 경험기 (Redux와 비교기) - 우아한형제들 기술 블로그](http://woowabros.github.io/experience/2019/01/02/kimcj-react-mobx.html)
 - [MobX with React DailyEngineering](https://hyunseob.github.io/2017/10/18/mobx-with-react/)
 - [‘리액트(ReactJS) 개발자가 걷게 되는 길’](https://repo.yona.io/doortts/blog/post/297)
-- 
+- [리액트 + 리덕스 앱 테스팅 · GitBook](https://redux-test.vlpt.us/)
+- [Hooks.guide](https://www.hooks.guide/)
 
 ## JavaScript
 - [(JavaScript) 자바스크립트의 this는 무엇인가? - ZeroCho Blog](https://www.zerocho.com/category/JavaScript/post/5b0645cc7e3e36001bf676eb?fbclid=IwAR0QXi-AWbspp3EUWHKBjzQ7vQxSTUYa63n0KiO9ZM6ZeHN6qmSkY92aC_A)
